@@ -1,4 +1,4 @@
-これまで作った(作成中)のアプリのスクリーンショット
+これまで作った(作成中)のアプリ
 <img width="1425" height="610" alt="Image" src="https://github.com/user-attachments/assets/8c89d709-9ec9-43c4-94a6-9e7fff472bb7" />
 
 <img width="963" height="520" alt="Image" src="https://github.com/user-attachments/assets/7ab11e91-ceac-4b7a-ab23-78111a370abe" />
